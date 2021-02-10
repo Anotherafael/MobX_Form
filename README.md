@@ -1,4 +1,6 @@
-# mobx_cart_list
+# MobX Formulário
+
+Desenvolvido apenas para aprendizado. It was developed for learning only.
 
 A new Flutter application.
 
